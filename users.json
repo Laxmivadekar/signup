@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "name": "manu",
+            "password": "Manu@1234",
+            "profile": {
+                "discription": "dancer",
+                "dob": "aug 19",
+                "hobbies": "danc",
+                "gender": "f"
+            }
+        },
+        {
+            "name": "Lucky",
+            "password": "Lucky@123",
+            "profile": {
+                "discription": "i am Laxmi,i came from Telangana",
+                "dob": "15-june-1999",
+                "hobbies": "reading",
+                "gender": "female"
+            }
+        }
+    ]
+}

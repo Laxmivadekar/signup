@@ -1,0 +1,44 @@
+{
+    "user": [
+        {
+            "Username": "Laxmi",
+            "Password": "Lucky@123",
+            "Profile": {
+                "description": "i am Laxmi vadekar, i came here for learning python and my likes to eat non-veg",
+                "d_o_b": "15-june-1998",
+                "Gender": "female",
+                "Hobbies": "reading books"
+            }
+        },
+        {
+            "Username": "Rajasri",
+            "Password": "Raja@123",
+            "Profile": {
+                "description": "i am Rajasri vadekar,i likes to participates in cultural feet",
+                "d_o_b": "06-march",
+                "Gender": "female",
+                "Hobbies": "playing chess,reading news paper"
+            }
+        },
+        {
+            "Username": "vadekar Gangadhar",
+            "Password": "Gangadhar@123",
+            "Profile": {
+                "description": "I am Gangadhar vadekar,i likes do work as my perfection",
+                "d_o_b": "1-june",
+                "Gender": "Male",
+                "Hobbies": "perfection on work"
+            }
+        },
+        {
+            "Username": "Naaz",
+            "Password": "Nazz@123",
+            "Profile": {
+                "description": "i am the good coder",
+                "d_o_b": "10 november 2001",
+                "Gender": "f",
+                "Hobbies": "sleeping"
+            }
+        }
+    ]
+}

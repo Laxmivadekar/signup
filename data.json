@@ -1,0 +1,54 @@
+{
+    "user": [
+        {
+            "Username": "Laxmi",
+            "Password": "Pandu@123",
+            "Profile": {
+                "description": "I am Laxmi vadekar,i like do creative things",
+                "d_o_b": "15-june",
+                "Gender": "Female",
+                "Hobbies": "reading,writing essay"
+            }
+        },
+        {
+            "Username": "Rajasri",
+            "Password": "Raja@123",
+            "Profile": {
+                "description": "I am Rajasri,i likes to staying stylish like a model",
+                "d_o_b": "06-march",
+                "Gender": "Female",
+                "Hobbies": "i am a good communicational speaker"
+            }
+        },
+        {
+            "Username": "Ashwini",
+            "Password": "asshu12@A",
+            "Profile": {
+                "description": "Hello my name is ashwini",
+                "d_o_b": "9-6-1999",
+                "Gender": "f",
+                "Hobbies": "reading,watching reels,listening music and singing"
+            }
+        },
+        {
+            "Username": "laxmi",
+            "Password": "Laxmi@12",
+            "Profile": {
+                "description": "i am tnp",
+                "d_o_b": "20/10/0000",
+                "Gender": "female",
+                "Hobbies": "reading books"
+            }
+        },
+        {
+            "Username": "shailu",
+            "Password": "Shailu@512",
+            "Profile": {
+                "description": "hgsdfjkhjf",
+                "d_o_b": "hjfdkhhj",
+                "Gender": "fdshjkfd",
+                "Hobbies": "hjsdfh"
+            }
+        }
+    ]
+}
